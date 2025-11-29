@@ -45,6 +45,10 @@ Add Book Page (Redux + Validation)
 
 404 Page
 
+Styled using Tailwind CSS
+
+Fully responsive UI
+
 ## ⚙️ Getting Started
 
 1. Clone the repository:
@@ -53,8 +57,4 @@ Add Book Page (Redux + Validation)
    cd Online-Library-Tailwind
 
 
-
-Styled using Tailwind CSS
-
-Fully responsive UI
 
