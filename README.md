@@ -17,3 +17,19 @@
 
 7.Add Book Form + Validation
 
+## 🔧 How to Run the Project
+
+Install dependencies:
+
+npm install
+
+
+Start development server:
+
+npm run dev
+
+
+Open the project in browser:
+
+http://localhost:5173
+
