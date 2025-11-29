@@ -33,3 +33,19 @@ Open the project in browser:
 
 http://localhost:5173
 
+## 📁 Features
+
+Home Page (Categories + Popular Books)
+
+Browse Books (Filter & Search)
+
+Book Details Page (Dynamic Route)
+
+Add Book Page (Redux + Validation)
+
+404 Page
+
+Styled using Tailwind CSS
+
+Fully responsive UI
+
