@@ -45,6 +45,15 @@ Add Book Page (Redux + Validation)
 
 404 Page
 
+## ⚙️ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RANJAN007-rgb/Online-Library-Tailwind
+   cd Online-Library-Tailwind
+
+
+
 Styled using Tailwind CSS
 
 Fully responsive UI
